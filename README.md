@@ -30,7 +30,7 @@ Essa será uma aplicação para armazenar transações financeiras de entrada e 
 
 - Model ou entidade: descreve o formato de dado que será armazenado em banco de dados.
 - Repository: realiza a conexão entre persistência (banco de dados) e a rota, sendo responsável por criar, armazenar, ler, editar ou deletar dados.
-- Service: inclui a parte de regra de negócio da aplicação identificado como algo específico e que conforme o desenvolvimento poderá sofrer alteração. Contém apenas um método - execute().
+- Service: inclui a parte de regra de negócio da aplicação identificado como algo específico e que conforme o desenvolvimento poderá sofrer alteração. Contém apenas um método - `execute()`.
 
 ## ⚠️ Instalação
 
